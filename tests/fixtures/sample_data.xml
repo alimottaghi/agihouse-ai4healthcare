@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="iPhone" creationDate="2025-01-06 07:00:00 -0800" startDate="2025-01-05 23:03:00 -0800" endDate="2025-01-06 06:25:00 -0800" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-05 23:10:00 -0800" endDate="2025-01-05 23:20:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-05 23:20:00 -0800" endDate="2025-01-06 01:10:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 01:10:00 -0800" endDate="2025-01-06 02:10:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 02:10:00 -0800" endDate="2025-01-06 02:35:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 02:35:00 -0800" endDate="2025-01-06 04:15:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 04:15:00 -0800" endDate="2025-01-06 04:20:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 04:20:00 -0800" endDate="2025-01-06 05:00:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-06 06:59:00 -0800" startDate="2025-01-06 05:00:00 -0800" endDate="2025-01-06 06:15:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Pillow" creationDate="2025-01-07 07:10:00 -0800" startDate="2025-01-06 22:45:00 -0800" endDate="2025-01-07 06:50:00 -0800" sourceVersion="5.4" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-06 23:05:00 -0800" endDate="2025-01-07 00:55:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-07 00:55:00 -0800" endDate="2025-01-07 01:45:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-07 01:45:00 -0800" endDate="2025-01-07 02:20:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-07 02:20:00 -0800" endDate="2025-01-07 02:25:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-07 02:25:00 -0800" endDate="2025-01-07 05:55:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-07 07:05:00 -0800" startDate="2025-01-07 05:55:00 -0800" endDate="2025-01-07 06:40:00 -0800" sourceVersion="10.3" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="2"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="iPhone" creationDate="2025-01-08 06:45:00 +0100" startDate="2025-01-07 22:50:00 +0100" endDate="2025-01-08 06:30:00 +0100" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-07 23:05:00 +0100" endDate="2025-01-07 23:20:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepUnspecified">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-07 23:20:00 +0100" endDate="2025-01-08 01:00:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-08 01:00:00 +0100" endDate="2025-01-08 01:50:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-08 01:50:00 +0100" endDate="2025-01-08 02:15:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-08 02:15:00 +0100" endDate="2025-01-08 05:55:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-08 05:55:00 +0100" endDate="2025-01-08 06:00:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:35:00 +0100" startDate="2025-01-08 06:00:00 +0100" endDate="2025-01-08 06:20:00 +0100" sourceVersion="10.5" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="Europe/London"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="iPhone" creationDate="2025-01-09 07:30:00 -0800" startDate="2025-01-09 00:20:00 -0700" endDate="2025-01-09 07:20:00 -0800" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 00:30:00 -0700" endDate="2025-01-09 01:50:00 -0700" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 01:50:00 -0700" endDate="2025-01-09 01:20:00 -0800" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 01:20:00 -0800" endDate="2025-01-09 02:15:00 -0800" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 02:15:00 -0800" endDate="2025-01-09 05:40:00 -0800" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 05:40:00 -0800" endDate="2025-01-09 05:45:00 -0800" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-09 07:25:00 -0800" startDate="2025-01-09 05:45:00 -0800" endDate="2025-01-09 06:55:00 -0800" sourceVersion="11.0" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="iPhone" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:02:04 -0800" endDate="2025-01-10 11:49:04 -0800" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:02:04 -0800" endDate="2025-01-10 03:03:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:03:04 -0800" endDate="2025-01-10 03:04:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:04:34 -0800" endDate="2025-01-10 03:22:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:22:34 -0800" endDate="2025-01-10 03:38:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:38:04 -0800" endDate="2025-01-10 03:47:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:47:34 -0800" endDate="2025-01-10 03:57:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 03:57:04 -0800" endDate="2025-01-10 04:43:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 04:43:34 -0800" endDate="2025-01-10 04:44:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 04:44:04 -0800" endDate="2025-01-10 04:54:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 04:54:04 -0800" endDate="2025-01-10 04:56:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 04:56:34 -0800" endDate="2025-01-10 05:04:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 05:04:04 -0800" endDate="2025-01-10 05:25:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 05:25:34 -0800" endDate="2025-01-10 05:27:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 05:27:04 -0800" endDate="2025-01-10 05:50:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 05:50:34 -0800" endDate="2025-01-10 05:51:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 05:51:34 -0800" endDate="2025-01-10 06:17:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 06:17:34 -0800" endDate="2025-01-10 06:19:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 06:19:34 -0800" endDate="2025-01-10 06:44:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 06:44:34 -0800" endDate="2025-01-10 06:45:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 06:45:04 -0800" endDate="2025-01-10 06:51:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 06:51:04 -0800" endDate="2025-01-10 07:19:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 07:19:04 -0800" endDate="2025-01-10 07:30:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 07:30:34 -0800" endDate="2025-01-10 07:31:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 07:31:04 -0800" endDate="2025-01-10 07:46:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 07:46:34 -0800" endDate="2025-01-10 08:03:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:03:34 -0800" endDate="2025-01-10 08:10:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:10:34 -0800" endDate="2025-01-10 08:40:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:40:04 -0800" endDate="2025-01-10 08:41:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:41:34 -0800" endDate="2025-01-10 08:42:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:42:04 -0800" endDate="2025-01-10 08:43:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:43:04 -0800" endDate="2025-01-10 08:54:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:54:34 -0800" endDate="2025-01-10 08:55:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:55:34 -0800" endDate="2025-01-10 08:59:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 08:59:04 -0800" endDate="2025-01-10 09:13:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 09:13:04 -0800" endDate="2025-01-10 09:41:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 09:41:04 -0800" endDate="2025-01-10 10:10:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:10:34 -0800" endDate="2025-01-10 10:12:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:12:04 -0800" endDate="2025-01-10 10:12:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:12:34 -0800" endDate="2025-01-10 10:34:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:34:04 -0800" endDate="2025-01-10 10:42:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:42:34 -0800" endDate="2025-01-10 10:43:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:43:34 -0800" endDate="2025-01-10 10:44:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 10:44:04 -0800" endDate="2025-01-10 11:16:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 11:16:34 -0800" endDate="2025-01-10 11:20:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 11:20:04 -0800" endDate="2025-01-10 11:29:34 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 11:29:34 -0800" endDate="2025-01-10 11:46:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-10 11:49:04 -0800" startDate="2025-01-10 11:46:04 -0800" endDate="2025-01-10 11:49:04 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="iPhone" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 01:50:59 -0800" endDate="2025-01-11 12:32:29 -0800" value="HKCategoryValueSleepAnalysisInBed">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 01:50:59 -0800" endDate="2025-01-11 02:18:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:18:59 -0800" endDate="2025-01-11 02:32:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:32:59 -0800" endDate="2025-01-11 02:33:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:33:29 -0800" endDate="2025-01-11 02:33:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:33:59 -0800" endDate="2025-01-11 02:46:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:46:29 -0800" endDate="2025-01-11 02:48:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 02:48:59 -0800" endDate="2025-01-11 03:12:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:12:59 -0800" endDate="2025-01-11 03:15:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:15:29 -0800" endDate="2025-01-11 03:41:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:41:59 -0800" endDate="2025-01-11 03:43:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:43:59 -0800" endDate="2025-01-11 03:52:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:52:59 -0800" endDate="2025-01-11 03:54:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 03:54:29 -0800" endDate="2025-01-11 04:06:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 04:06:59 -0800" endDate="2025-01-11 04:08:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 04:08:29 -0800" endDate="2025-01-11 04:13:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 04:13:59 -0800" endDate="2025-01-11 04:16:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 04:16:59 -0800" endDate="2025-01-11 04:36:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 04:36:59 -0800" endDate="2025-01-11 05:06:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 05:06:59 -0800" endDate="2025-01-11 05:22:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 05:22:29 -0800" endDate="2025-01-11 05:51:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 05:51:59 -0800" endDate="2025-01-11 06:19:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 06:19:59 -0800" endDate="2025-01-11 06:20:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 06:20:29 -0800" endDate="2025-01-11 06:38:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 06:38:29 -0800" endDate="2025-01-11 07:06:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepDeep">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:06:29 -0800" endDate="2025-01-11 07:06:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:06:59 -0800" endDate="2025-01-11 07:07:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:07:29 -0800" endDate="2025-01-11 07:28:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:28:59 -0800" endDate="2025-01-11 07:32:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:32:59 -0800" endDate="2025-01-11 07:36:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:36:59 -0800" endDate="2025-01-11 07:37:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:37:59 -0800" endDate="2025-01-11 07:38:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:38:59 -0800" endDate="2025-01-11 07:40:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 07:40:59 -0800" endDate="2025-01-11 08:04:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:04:29 -0800" endDate="2025-01-11 08:05:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:05:29 -0800" endDate="2025-01-11 08:08:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:08:29 -0800" endDate="2025-01-11 08:34:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:34:29 -0800" endDate="2025-01-11 08:35:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:35:59 -0800" endDate="2025-01-11 08:38:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:38:59 -0800" endDate="2025-01-11 08:44:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:44:59 -0800" endDate="2025-01-11 08:45:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:45:29 -0800" endDate="2025-01-11 08:49:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:49:29 -0800" endDate="2025-01-11 08:59:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 08:59:59 -0800" endDate="2025-01-11 09:00:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 09:00:59 -0800" endDate="2025-01-11 10:12:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 10:12:59 -0800" endDate="2025-01-11 10:49:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 10:49:59 -0800" endDate="2025-01-11 10:57:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 10:57:59 -0800" endDate="2025-01-11 10:58:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 10:58:59 -0800" endDate="2025-01-11 11:52:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 11:52:29 -0800" endDate="2025-01-11 12:14:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepREM">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 12:14:59 -0800" endDate="2025-01-11 12:15:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 12:15:59 -0800" endDate="2025-01-11 12:23:59 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 12:23:59 -0800" endDate="2025-01-11 12:25:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAwake">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Apple Watch Series 9" creationDate="2025-01-11 12:32:29 -0800" startDate="2025-01-11 12:25:29 -0800" endDate="2025-01-11 12:32:29 -0800" sourceVersion="10.4" value="HKCategoryValueSleepAnalysisAsleepCore">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="SleepAlgorithmVersion" value="3"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 09:00:00:10 -0800" startDate="2025-01-06 08:00:00 -0800" endDate="2025-01-06 09:00:00 -0800" value="HKCategoryValueAppleStandHourStood">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 10:00:00:10 -0800" startDate="2025-01-06 09:00:00 -0800" endDate="2025-01-06 10:00:00 -0800" value="HKCategoryValueAppleStandHourIdle">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 11:00:00:10 -0800" startDate="2025-01-06 10:00:00 -0800" endDate="2025-01-06 11:00:00 -0800" value="HKCategoryValueAppleStandHourStood">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 13:00:00:10 -0800" startDate="2025-01-06 12:00:00 -0800" endDate="2025-01-06 13:00:00 -0800" value="HKCategoryValueAppleStandHourStood">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 15:00:00:10 -0800" startDate="2025-01-06 14:00:00 -0800" endDate="2025-01-06 15:00:00 -0800" value="HKCategoryValueAppleStandHourStood">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 17:00:00:10 -0800" startDate="2025-01-06 16:00:00 -0800" endDate="2025-01-06 17:00:00 -0800" value="HKCategoryValueAppleStandHourIdle">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierAppleStandHour" sourceName="Apple Watch Series 9" creationDate="2025-01-06 19:00:00:10 -0800" startDate="2025-01-06 18:00:00 -0800" endDate="2025-01-06 19:00:00 -0800" value="HKCategoryValueAppleStandHourStood">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-05 07:30:00 -0800" startDate="2025-01-05 07:30:00 -0800" endDate="2025-01-05 07:30:00 -0800" sourceVersion="10.3" value="82" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-05 07:35:00 -0800" startDate="2025-01-05 07:35:00 -0800" endDate="2025-01-05 07:35:00 -0800" sourceVersion="10.3" value="88" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-06 07:30:00 -0800" startDate="2025-01-06 07:30:00 -0800" endDate="2025-01-06 07:30:00 -0800" sourceVersion="10.3" value="84" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-07 07:30:00 -0800" startDate="2025-01-07 07:30:00 -0800" endDate="2025-01-07 07:30:00 -0800" sourceVersion="10.3" value="79" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-08 07:30:00 -0800" startDate="2025-01-08 07:30:00 -0800" endDate="2025-01-08 07:30:00 -0800" sourceVersion="10.3" value="85" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-08 12:00:00 -0800" startDate="2025-01-08 12:00:00 -0800" endDate="2025-01-08 12:00:00 -0800" sourceVersion="10.3" value="98" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-09 07:30:00 -0800" startDate="2025-01-09 07:30:00 -0800" endDate="2025-01-09 07:30:00 -0800" sourceVersion="10.3" value="90" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-09 18:00:00 -0800" startDate="2025-01-09 18:00:00 -0800" endDate="2025-01-09 18:00:00 -0800" sourceVersion="10.3" value="76" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-10 07:30:00 -0800" startDate="2025-01-10 07:30:00 -0800" endDate="2025-01-10 07:30:00 -0800" sourceVersion="10.3" value="93" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-10 18:15:00 -0800" startDate="2025-01-10 18:15:00 -0800" endDate="2025-01-10 18:15:00 -0800" sourceVersion="10.3" value="80" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-11 06:50:00 -0800" startDate="2025-01-11 06:50:00 -0800" endDate="2025-01-11 06:50:00 -0800" sourceVersion="10.3" value="72" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch Ultra" creationDate="2025-01-11 07:30:00 -0800" startDate="2025-01-11 07:30:00 -0800" endDate="2025-01-11 07:30:00 -0800" sourceVersion="10.3" value="87" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-05 05:50:00 -0800" startDate="2025-01-05 05:45:00 -0800" endDate="2025-01-05 05:45:00 -0800" value="52" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-06 05:50:00 -0800" startDate="2025-01-06 05:45:00 -0800" endDate="2025-01-06 05:45:00 -0800" value="53" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-07 05:50:00 -0800" startDate="2025-01-07 05:45:00 -0800" endDate="2025-01-07 05:45:00 -0800" value="51" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-08 05:50:00 -0800" startDate="2025-01-08 05:45:00 -0800" endDate="2025-01-08 05:45:00 -0800" value="52" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-09 05:50:00 -0800" startDate="2025-01-09 05:45:00 -0800" endDate="2025-01-09 05:45:00 -0800" value="54" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-10 05:50:00 -0800" startDate="2025-01-10 05:45:00 -0800" endDate="2025-01-10 05:45:00 -0800" value="53" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch Series 9" creationDate="2025-01-11 05:50:00 -0800" startDate="2025-01-11 05:45:00 -0800" endDate="2025-01-11 05:45:00 -0800" value="52" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-05 10:05:00 -0800" startDate="2025-01-05 10:00:00 -0800" endDate="2025-01-05 10:05:00 -0800" value="92" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-06 10:05:00 -0800" startDate="2025-01-06 10:00:00 -0800" endDate="2025-01-06 10:05:00 -0800" value="95" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-07 10:05:00 -0800" startDate="2025-01-07 10:00:00 -0800" endDate="2025-01-07 10:05:00 -0800" value="90" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-08 10:05:00 -0800" startDate="2025-01-08 10:00:00 -0800" endDate="2025-01-08 10:05:00 -0800" value="96" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-09 10:05:00 -0800" startDate="2025-01-09 10:00:00 -0800" endDate="2025-01-09 10:05:00 -0800" value="98" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-10 10:05:00 -0800" startDate="2025-01-10 10:00:00 -0800" endDate="2025-01-10 10:05:00 -0800" value="100" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch Series 9" creationDate="2025-01-11 10:05:00 -0800" startDate="2025-01-11 10:00:00 -0800" endDate="2025-01-11 10:05:00 -0800" value="94" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+
+  <Record type="HKQuantityTypeIdentifierBloodPressureSystolic" sourceName="Omron Connect" creationDate="2025-01-06 07:05:00 -0800" startDate="2025-01-06 07:05:00 -0800" endDate="2025-01-06 07:05:00 -0800" sourceVersion="7.3" value="118" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodPressureDiastolic" sourceName="Omron Connect" creationDate="2025-01-06 07:05:00 -0800" startDate="2025-01-06 07:05:00 -0800" endDate="2025-01-06 07:05:00 -0800" sourceVersion="7.3" value="76" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodPressureSystolic" sourceName="Omron Connect" creationDate="2025-01-09 06:55:00 -0800" startDate="2025-01-09 06:55:00 -0800" endDate="2025-01-09 06:55:00 -0800" sourceVersion="7.3" value="121" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodPressureDiastolic" sourceName="Omron Connect" creationDate="2025-01-09 06:55:00 -0800" startDate="2025-01-09 06:55:00 -0800" endDate="2025-01-09 06:55:00 -0800" sourceVersion="7.3" value="78" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodPressureSystolic" sourceName="Omron Connect" creationDate="2025-01-11 20:10:00 -0800" startDate="2025-01-11 20:10:00 -0800" endDate="2025-01-11 20:10:00 -0800" sourceVersion="7.3" value="117" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodPressureDiastolic" sourceName="Omron Connect" creationDate="2025-01-11 20:10:00 -0800" startDate="2025-01-11 20:10:00 -0800" endDate="2025-01-11 20:10:00 -0800" sourceVersion="7.3" value="75" unit="mmHg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKWasUserEntered" value="1"/>
+  </Record>
+
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="Contour Next One" creationDate="2025-01-05 06:30:00 -0800" startDate="2025-01-05 06:30:00 -0800" endDate="2025-01-05 06:30:00 -0800" sourceVersion="3.1" value="92" unit="mg/dL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKMetadataKeyBloodGlucoseMealTime" value="fasting"/>
+    <MetadataEntry key="HKWasUserEntered" value="0"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="Contour Next One" creationDate="2025-01-07 14:15:00 -0800" startDate="2025-01-07 14:15:00 -0800" endDate="2025-01-07 14:15:00 -0800" sourceVersion="3.1" value="138" unit="mg/dL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKMetadataKeyBloodGlucoseMealTime" value="postprandial"/>
+    <MetadataEntry key="HKWasUserEntered" value="0"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="Contour Next One" creationDate="2025-01-09 06:20:00 -0800" startDate="2025-01-09 06:20:00 -0800" endDate="2025-01-09 06:20:00 -0800" sourceVersion="3.1" value="88" unit="mg/dL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKMetadataKeyBloodGlucoseMealTime" value="fasting"/>
+    <MetadataEntry key="HKWasUserEntered" value="0"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="Contour Next One" creationDate="2025-01-10 13:50:00 -0800" startDate="2025-01-10 13:50:00 -0800" endDate="2025-01-10 13:50:00 -0800" sourceVersion="3.1" value="144" unit="mg/dL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKMetadataKeyBloodGlucoseMealTime" value="postprandial"/>
+    <MetadataEntry key="HKWasUserEntered" value="0"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="Contour Next One" creationDate="2025-01-11 06:25:00 -0800" startDate="2025-01-11 06:25:00 -0800" endDate="2025-01-11 06:25:00 -0800" sourceVersion="3.1" value="94" unit="mg/dL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <MetadataEntry key="HKMetadataKeyBloodGlucoseMealTime" value="fasting"/>
+    <MetadataEntry key="HKWasUserEntered" value="0"/>
+  </Record>
+
+  <!-- Respiratory Rate -->
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-05 06:45:00 -0800" startDate="2025-01-05 06:45:00 -0800" endDate="2025-01-05 06:45:00 -0800" sourceVersion="10.3" value="14" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-06 06:45:00 -0800" startDate="2025-01-06 06:45:00 -0800" endDate="2025-01-06 06:45:00 -0800" sourceVersion="10.3" value="15" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-07 06:45:00 -0800" startDate="2025-01-07 06:45:00 -0800" endDate="2025-01-07 06:45:00 -0800" sourceVersion="10.3" value="14" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-08 06:45:00 -0800" startDate="2025-01-08 06:45:00 -0800" endDate="2025-01-08 06:45:00 -0800" sourceVersion="10.3" value="16" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-09 06:45:00 -0800" startDate="2025-01-09 06:45:00 -0800" endDate="2025-01-09 06:45:00 -0800" sourceVersion="10.3" value="15" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-10 06:45:00 -0800" startDate="2025-01-10 06:45:00 -0800" endDate="2025-01-10 06:45:00 -0800" sourceVersion="10.3" value="16" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch Ultra" creationDate="2025-01-11 06:45:00 -0800" startDate="2025-01-11 06:45:00 -0800" endDate="2025-01-11 06:45:00 -0800" sourceVersion="10.3" value="15" unit="count/min">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+
+  <!-- Wrist Temperature -->
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-05 03:10:00 -0800" startDate="2025-01-05 03:10:00 -0800" endDate="2025-01-05 03:10:00 -0800" sourceVersion="10.3" value="36.4" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-06 03:10:00 -0800" startDate="2025-01-06 03:10:00 -0800" endDate="2025-01-06 03:10:00 -0800" sourceVersion="10.3" value="36.3" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-07 03:10:00 -0800" startDate="2025-01-07 03:10:00 -0800" endDate="2025-01-07 03:10:00 -0800" sourceVersion="10.3" value="36.5" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-08 03:10:00 -0800" startDate="2025-01-08 03:10:00 -0800" endDate="2025-01-08 03:10:00 -0800" sourceVersion="10.3" value="36.4" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-09 03:10:00 -0800" startDate="2025-01-09 03:10:00 -0800" endDate="2025-01-09 03:10:00 -0800" sourceVersion="10.3" value="36.6" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-10 03:10:00 -0800" startDate="2025-01-10 03:10:00 -0800" endDate="2025-01-10 03:10:00 -0800" sourceVersion="10.3" value="36.5" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierAppleSleepingWristTemperature" sourceName="Apple Watch Ultra" creationDate="2025-01-11 03:10:00 -0800" startDate="2025-01-11 03:10:00 -0800" endDate="2025-01-11 03:10:00 -0800" sourceVersion="10.3" value="36.4" unit="degC">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierLowHeartRateEvent" sourceName="Apple Watch Series 9" creationDate="2025-03-02 06:12:00 -0800" startDate="2025-03-02 05:50:00 -0800" endDate="2025-03-02 05:55:00 -0800" value="HKCategoryValueLowHeartRateEvent">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierHighHeartRateEvent" sourceName="Apple Watch Series 9" creationDate="2025-03-02 07:45:00 -0800" startDate="2025-03-02 07:37:30 -0800" endDate="2025-03-02 07:39:00 -0800" value="HKCategoryValueHighHeartRateEvent">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch Ultra" creationDate="2025-05-09 12:15:00 -0700" startDate="2025-05-09 12:00:00 -0700" endDate="2025-05-09 12:15:00 -0700" value="1246" unit="count">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch Ultra" creationDate="2025-05-09 12:30:00 -0700" startDate="2025-05-09 12:15:00 -0700" endDate="2025-05-09 12:30:00 -0700" value="980" unit="count">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch Ultra" creationDate="2025-05-09 13:00:00 -0700" startDate="2025-05-09 12:45:00 -0700" endDate="2025-05-09 13:00:00 -0700" value="1532" unit="count">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch Ultra" creationDate="2025-05-09 17:30:00 -0700" startDate="2025-05-09 17:00:00 -0700" endDate="2025-05-09 17:30:00 -0700" value="2210" unit="count">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierDistanceWalkingRunning" sourceName="Apple Watch Ultra" creationDate="2025-03-02 08:16:00 -0800" startDate="2025-03-02 07:30:00 -0800" endDate="2025-03-02 08:15:00 -0800" value="3.05" unit="mi">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierDistanceWalkingRunning" sourceName="Apple Watch Ultra" creationDate="2025-06-12 18:26:00 -0700" startDate="2025-06-12 18:10:00 -0700" endDate="2025-06-12 18:25:00 -0700" value="1.28" unit="km">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierVO2Max" sourceName="Apple Watch Ultra" creationDate="2025-02-10 09:05:00 -0800" startDate="2025-02-10 09:00:00 -0800" endDate="2025-02-10 09:00:00 -0800" sourceVersion="10.3" value="43.2" unit="mL/min·kg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierVO2Max" sourceName="Apple Watch Ultra" creationDate="2025-08-10 09:05:00 -0700" startDate="2025-08-10 09:00:00 -0700" endDate="2025-08-10 09:00:00 -0700" sourceVersion="10.5" value="45.0" unit="mL/min·kg">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierMindfulSession" sourceName="Headspace" creationDate="2025-06-25 08:05:00 -0700" startDate="2025-06-25 07:50:00 -0700" endDate="2025-06-25 08:05:00 -0700" sourceVersion="3.248" value="HKCategoryValueMindfulSession">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierMindfulSession" sourceName="Headspace" creationDate="2025-08-15 21:20:00 -0700" startDate="2025-08-15 21:10:00 -0700" endDate="2025-08-15 21:20:00 -0700" sourceVersion="3.248" value="HKCategoryValueMindfulSession">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKCategoryTypeIdentifierMindfulSession" sourceName="Headspace" creationDate="2025-12-05 07:05:00 -0800" startDate="2025-12-05 06:55:00 -0800" endDate="2025-12-05 07:05:00 -0800" sourceVersion="3.248" value="HKCategoryValueMindfulSession">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Record type="HKQuantityTypeIdentifierEnvironmentalAudioExposure" sourceName="Apple Watch Series 9" creationDate="2025-06-12 18:00:10 -0700" startDate="2025-06-12 17:30:00 -0700" endDate="2025-06-12 18:00:00 -0700" value="78.4" unit="dBASPL">
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+  </Record>
+  <Workout workoutActivityType="HKWorkoutActivityTypeRunning" sourceName="Apple Watch Ultra" duration="2700" durationUnit="s" startDate="2025-03-02 07:30:00 -0800" endDate="2025-03-02 08:15:00 -0800" sourceVersion="10.4" device="&amp;lt;&amp;lt;HKDevice: 0xCAFEFACE&amp;gt;, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,4, software:10.4&amp;gt;">
+    <MetadataEntry key="HKIndoorWorkout" value="0"/>
+    <MetadataEntry key="HKAverageMETs" value="7.1 kcal/hr·kg"/>
+    <MetadataEntry key="HKWeatherTemperature" value="54.0 degF"/>
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2025-03-02 07:42:30 -0800"/>
+    <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2025-03-02 07:43:10 -0800"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2025-03-02 07:30:00 -0800" endDate="2025-03-02 08:15:00 -0800" sum="345.2" unit="Cal"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierDistanceWalkingRunning" startDate="2025-03-02 07:30:00 -0800" endDate="2025-03-02 08:15:00 -0800" sum="3.05" unit="mi"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierBasalEnergyBurned" startDate="2025-03-02 07:30:00 -0800" endDate="2025-03-02 08:15:00 -0800" sum="56.8" unit="Cal"/>
+    <WorkoutRoute sourceName="Apple Watch Ultra" startDate="2025-03-02 07:30:05 -0800" endDate="2025-03-02 08:14:55 -0800" sourceVersion="10.4">
+      <MetadataEntry key="HKMetadataKeySyncIdentifier" value="RUN-03022025-0730"/>
+      <FileReference path="/workout-routes/run_2025-03-02_7-30am.gpx"/>
+    </WorkoutRoute>
+  </Workout>
+  <Workout workoutActivityType="HKWorkoutActivityTypeRunning" sourceName="Apple Watch Ultra" duration="1800" durationUnit="s" startDate="2025-01-12 18:05:00 -0800" endDate="2025-01-12 18:35:00 -0800" sourceVersion="10.3">
+    <MetadataEntry key="HKIndoorWorkout" value="1"/>
+    <MetadataEntry key="HKAverageMETs" value="8.0 kcal/hr·kg"/>
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2025-01-12 18:05:00 -0800" endDate="2025-01-12 18:35:00 -0800" sum="285.0" unit="Cal"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierDistanceWalkingRunning" startDate="2025-01-12 18:05:00 -0800" endDate="2025-01-12 18:35:00 -0800" sum="2.45" unit="mi"/>
+  </Workout>
+  <Workout workoutActivityType="HKWorkoutActivityTypeCycling" sourceName="Apple Watch Ultra" duration="3300" durationUnit="s" startDate="2025-06-12 17:30:00 -0700" endDate="2025-06-12 18:25:00 -0700" sourceVersion="10.5">
+    <MetadataEntry key="HKIndoorWorkout" value="0"/>
+    <MetadataEntry key="HKAverageMETs" value="6.2 kcal/hr·kg"/>
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2025-06-12 17:30:00 -0700" endDate="2025-06-12 18:25:00 -0700" sum="412.0" unit="Cal"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierDistanceCycling" startDate="2025-06-12 17:30:00 -0700" endDate="2025-06-12 18:25:00 -0700" sum="12.8" unit="mi"/>
+    <WorkoutRoute sourceName="Apple Watch Ultra" startDate="2025-06-12 17:30:00 -0700" endDate="2025-06-12 18:25:00 -0700" sourceVersion="10.5">
+      <MetadataEntry key="HKMetadataKeySyncIdentifier" value="BIKE-06122025-1730"/>
+      <FileReference path="/workout-routes/bike_2025-06-12_5-30pm.gpx"/>
+    </WorkoutRoute>
+  </Workout>
+  <Workout workoutActivityType="HKWorkoutActivityTypeYoga" sourceName="Apple Watch Series 9" duration="1800" durationUnit="s" startDate="2025-08-15 21:00:00 -0700" endDate="2025-08-15 21:30:00 -0700" sourceVersion="10.5">
+    <MetadataEntry key="HKAverageMETs" value="2.5 kcal/hr·kg"/>
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2025-08-15 21:00:00 -0700" endDate="2025-08-15 21:30:00 -0700" sum="92.0" unit="Cal"/>
+  </Workout>
+  <Workout workoutActivityType="HKWorkoutActivityTypeTraditionalStrengthTraining" sourceName="Apple Watch Series 9" duration="2700" durationUnit="s" startDate="2025-09-05 07:10:00 -0700" endDate="2025-09-05 07:55:00 -0700" sourceVersion="10.6">
+    <MetadataEntry key="HKAverageMETs" value="5.5 kcal/hr·kg"/>
+    <MetadataEntry key="HKTimeZone" value="America/Los_Angeles"/>
+    <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2025-09-05 07:25:00 -0700" duration="300" durationUnit="s"/>
+    <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2025-09-05 07:40:00 -0700" duration="300" durationUnit="s"/>
+    <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2025-09-05 07:10:00 -0700" endDate="2025-09-05 07:55:00 -0700" sum="238.0" unit="Cal"/>
+  </Workout>
+</HealthData>
